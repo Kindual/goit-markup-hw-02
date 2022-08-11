@@ -1,0 +1,23 @@
+/* 
+background hero #2F303A 
+main font color #FFFFFF
+main blue color #2196F3
+font header 212121
+font logo black #000000
+color tel & position-person #757575
+background main #F5F5F5
+background our team #757575
+*/
+:root {
+    /* bg */
+    --main-bg-color: #FFFFFF;
+
+    /* colors */
+    --accent-blue: #2196F3;
+    --accent-black: #000000;
+    --main-font-black: #212121;
+    --link-contact-color: #757575;
+    --bg-hero-color: #2F303A;
+    --white: #FFFFFF;
+    --link-contact-color-footer: rgba(255, 255, 255, 0.6);
+}
